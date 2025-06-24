@@ -5,3 +5,4 @@
 - I don't drink coffee
 - I like to drink coffee with sweet snack!
 - Smelling scent of coffee is my favorite way!
+- Sit back, relax, and enjoy.
