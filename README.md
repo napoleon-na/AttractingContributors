@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# What is your favourite way of enjoying coffee?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of ways of enjoying coffee
+-
