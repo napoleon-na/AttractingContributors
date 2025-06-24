@@ -12,3 +12,4 @@
 - PC  ￥300,000
 - House ￥30,000,000
 - iiyama desktop pc ￥300,000
+- Car ￥3,000,000
