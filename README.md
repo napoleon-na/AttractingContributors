@@ -8,4 +8,9 @@
 - Take enough sleep
 - Listen to music
 - Eat favorite foods
+- take a bath
+- Eat a lot
+- Sleep
+- chat with my partner
+- talk with family member
 
